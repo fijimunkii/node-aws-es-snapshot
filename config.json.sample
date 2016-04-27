@@ -1,0 +1,9 @@
+{
+  "snapshotBucket": "logs-snapshots",
+  "awsId": "123456789",
+  "awsKey": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+  "awsSecret": "lW90fSslffkldfD1234DlOzvlHLTYCMBL",
+  "roleName": "Manual_Snapshot_Role",
+  "esDomain": "logs-snapshots-asdfasdfasdfus-east-1.es.amazonaws.com",
+  "snapshotName": "2016-04-20"
+}
